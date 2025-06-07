@@ -1,0 +1,20 @@
+1,Marino Hinestroza,1,11,Delantero
+2,Edwin Cardona,1,8,Mediocampista
+3,William Tesillo,1,3,Defensa
+4,David Ospina,1,1,Portero
+5,Kevin Viveros,1,9,Delantero
+6,Duván Vergara,2,7,Delantero
+7,Juan Quintero,2,10,Mediocampista
+8,Daniel Bocanegra,2,2,Defensa
+9,Cristian Barrios,2,5,Mediocampista
+10,Rodrigo Holgado,2,9,Delantero
+11,Walmer Pacheco,3,4,Defensa
+12,Yesus Cabrera,3,8,Mediocampista
+13,Darwin Quintero,3,10,Delantero
+14,Salvador Ichazo,3,1,Portero
+15,Rubilio Castillo,3,9,Delantero
+16,Dayro Moreno,4,10,Delantero
+17,Gilbert Álvarez,4,9,Delantero
+18,Juan David Cuesta,4,2,Defensa
+19,Mateo García,4,8,Mediocampista
+20,Michael Barrios,4,7,Delantero 
